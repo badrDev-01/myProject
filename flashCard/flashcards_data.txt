@@ -1,0 +1,3 @@
+Python - A programming language known for readability.
+Function - A block of reusable code.
+Loop - A structure that repeats a block of code.
