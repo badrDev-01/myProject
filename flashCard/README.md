@@ -5,5 +5,4 @@ A simple Python program to quiz yourself on coding concepts using a flashcard sy
 
 ## 🚀 How to Use
 1. Clone the repository:
-   ```sh
-   git clone <your-repo-link>
+   https://github.com/badrDev-01/myProject.git
